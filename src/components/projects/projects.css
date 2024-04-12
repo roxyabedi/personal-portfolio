@@ -45,6 +45,10 @@
     color: white;
 }
 
+.portfolio__item:hover .description{
+    color: #015994;
+}
+
 .project{
     border-color: white;
     color: white;
