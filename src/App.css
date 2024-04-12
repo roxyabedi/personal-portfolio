@@ -1,38 +1,24 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+    --color-text-primary: var(--color-green500);
+    --color-text-secondary: var(--color-green600);
+    --color-text-tertiary: var(--color-beige);
+    --color-text-quarterly: var(--color-green300);
+    --color-text-hilite: var(--color-green400);
+    --color-text-active: var(--color-white);
+    --color-text-bold: var(--color-green700);
+    --color-text-contrast: var(--color-green800);
+    --color-text-ai: var(--spectrum-purple-600);
+    --color-primary: var(--color-beige);
+    --color-primary-accent: var(--color-green500);
+    --color-primary-border: var(--color-white);
+    --color-tertiary: var(--color-green300);
+    --color-opaque: hsla(0, 0%, 100%, .5);
+    --color-selector: var(--color-white);
+    --color-light: var(--color-white);
+    --color-light-border: rgba(0,0,0,.05);
+    --color-white-border: rgba(0,0,0,.1);
+    --color-light-hover: rgba(0,0,0,.05);
+    --color-white-hover: rgba(0,0,0,.05);
+    --color-dark: var(--color-black);
+    --color-dark-border: rgba(255,255,255,.1);
+};
