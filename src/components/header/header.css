@@ -119,7 +119,7 @@ h1, h2, .text-light{
     header{
 
         height: 100vh;
-        padding-top: 1rem;
+        padding-top: 0;
     }
 
     .header__socials, .scroll__down{
@@ -131,6 +131,7 @@ h1, h2, .text-light{
         display: flex;
         gap: 1.2rem;
         justify-content: center;
+        margin-top: 0;
     }
 
 }
