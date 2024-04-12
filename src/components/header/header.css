@@ -108,6 +108,14 @@ h1, h2, .text-light{
     header{
 
         height: 60vh;
+        padding-top: 0;
+    }
+
+    .cta {
+        display: flex;
+        gap: 1.2rem;
+        justify-content: center;
+        margin-top: 0;
     }
 
 }
