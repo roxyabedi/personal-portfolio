@@ -17,7 +17,7 @@ const Projects = () => {
                 <img src={IMG1} alt="" />
             </div>
             <h3>Boston Celtics Stats</h3>
-            <small className='text-light'>HTML | CSS | JS | Express/Node.js | EJS</small>
+            <small className='text-light description'>HTML | CSS | JS | Express/Node.js | EJS</small>
             <div className="portfolio__item-cta">
               {/* <a href="https://github.com/himani413/FashionGallery" target="_blank" rel='noreferrer' className='btn'>Github</a> */}
               <a href="https://nba-celtics.onrender.com" target="_blank" rel='noreferrer' className='btn btn-primary project'>Visit Website</a> 
@@ -29,7 +29,7 @@ const Projects = () => {
                 <img src={IMG2} alt="" />
             </div>
             <h3>Musical Connections</h3>
-            <small className='text-light'>HTML | CSS | JS | React.js </small>
+            <small className='text-light description'>HTML | CSS | JS | React.js </small>
             <div className="portfolio__item-cta">
               {/* <a href="" target="_blank" rel='noreferrer' className='btn'>Github</a>   */}
               <a href="https://musical-connections.netlify.app" target="_blank" rel='noreferrer' className='btn btn-primary project'>Visit Website</a> 
@@ -41,7 +41,7 @@ const Projects = () => {
                 <img src={IMG3} alt="" />
             </div>
             <h3>My Portfolio</h3>
-            <small className='text-light'>HTML | CSS | JS | React.js </small>
+            <small className='text-light description'>HTML | CSS | JS | React.js </small>
             <div className="portfolio__item-cta">
             <a href="https://github.com/roxyabedi/personal-portfolio" target="_blank" rel='noreferrer' className='btn btn-primary project'>GitHub</a> 
             </div>

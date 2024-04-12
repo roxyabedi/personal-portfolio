@@ -41,8 +41,13 @@
     gap: 1rem;
 }
 
+.description{
+    color: white;
+}
+
 .project{
     border-color: white;
+    color: white;
 }
 /* Media queries for medium devices(Tablets) */
 
