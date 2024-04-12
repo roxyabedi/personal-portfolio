@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.84558b7a.css",
-    "main.js": "/personal-portfolio/static/js/main.1f201e11.js",
+    "main.css": "/personal-portfolio/static/css/main.0c8836c2.css",
+    "main.js": "/personal-portfolio/static/js/main.cfd234ec.js",
     "static/js/787.0f15b36d.chunk.js": "/personal-portfolio/static/js/787.0f15b36d.chunk.js",
     "static/media/me.JPG": "/personal-portfolio/static/media/me.9c47fb16227a295b3fd0.JPG",
     "static/media/celtics.png": "/personal-portfolio/static/media/celtics.03124dfde467bdd17273.png",
@@ -10,12 +10,12 @@
     "static/media/Roxanna_Abedi Resume.pdf": "/personal-portfolio/static/media/Roxanna_Abedi Resume.37781273fe4081d08fb7.pdf",
     "static/media/bush.png": "/personal-portfolio/static/media/bush.3da634d2ca9f10915049.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.84558b7a.css.map": "/personal-portfolio/static/css/main.84558b7a.css.map",
-    "main.1f201e11.js.map": "/personal-portfolio/static/js/main.1f201e11.js.map",
+    "main.0c8836c2.css.map": "/personal-portfolio/static/css/main.0c8836c2.css.map",
+    "main.cfd234ec.js.map": "/personal-portfolio/static/js/main.cfd234ec.js.map",
     "787.0f15b36d.chunk.js.map": "/personal-portfolio/static/js/787.0f15b36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84558b7a.css",
-    "static/js/main.1f201e11.js"
+    "static/css/main.0c8836c2.css",
+    "static/js/main.cfd234ec.js"
   ]
 }
