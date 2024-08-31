@@ -4,6 +4,8 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a developer. The site is designed to provide a comprehensive view of my work, including my technical expertise, completed projects, and professional background. It's a one-stop platform where potential employers, collaborators, and anyone interested can learn more about me and my work.
 
+<img width="1420" alt="Screenshot 2024-08-31 at 4 25 23 PM" src="https://github.com/user-attachments/assets/8171579a-d93e-4df3-8b79-198a00ba6cf0">
+
 ## Features
 - About Me: A section where visitors can learn about my background, interests, and professional journey.
 - Skills: A detailed overview of the programming languages, tools, and frameworks I'm proficient in.
