@@ -20,7 +20,7 @@ const Projects = () => {
             <small className='text-light description'>HTML | CSS | JS | Express/Node.js | EJS</small>
             <div className="portfolio__item-cta">
               {/* <a href="https://github.com/himani413/FashionGallery" target="_blank" rel='noreferrer' className='btn'>Github</a> */}
-              <a href="https://nba-celtics.onrender.com" target="_blank" rel='noreferrer' className='btn btn-primary project'>Visit Website</a> 
+              <a href="https://github.com/roxyabedi/nba" target="_blank" rel='noreferrer' className='btn btn-primary project'>GitHub</a> 
             </div>
               
         </article>
